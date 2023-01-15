@@ -24,10 +24,10 @@ log.setLevel(logging.ERROR)
 def main_func_():
   print("PING__UPTIME")  
   return """
-  ######## DARKMASH ~ EMOTION API ~ V.1.0.0 #########
-  To use the service ,
+  ######## DARKMASH ~ EMOTION API ~ V.1.0.0 #########<br>
+  To use the service ,<br>
       /service/img_url_encoded_with_base64
-  ###################################################
+  ####################################################
   """
 
 
