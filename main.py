@@ -25,6 +25,22 @@ log.setLevel(logging.ERROR)
 def main_func_():
   print("PING__UPTIME")  
   return """
+   <meta
+      property="og:image"
+      content="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+    <meta
+      name="description"
+      content="An API for detecting emotion.."
+    />
+    <meta name="keywords" content="api , emotion ,darkmash , tools , startup , coders" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+        <title>Emotion API ~ Darkmash</title>
+
   ######## DARKMASH ~ EMOTION API ~ V.1.0.0 #########<br>
   To use the service ,<br>
       /service/img_url_encoded_with_base64<br>
@@ -50,7 +66,24 @@ def main_func(file_url):
         fp.write(response.content)
         fp.close()
       else:
-        return "Some error regarding the link happend.. (somethin like the site was down)"
+        return """
+        <meta
+      property="og:image"
+      content="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+        <title>Emotion API ~ Darkmash</title>
+
+    <meta
+      name="description"
+      content="An API for detecting emotion.. || ERRRORRR!!"
+    />
+    <meta name="keywords" content="api , emotion ,darkmash , tools , startup , coders" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+        Some error regarding the link happend.. (somethin like the site was down)"""
         
       img = cv2.imread(in_t)
       os.remove(in_t)
@@ -60,7 +93,24 @@ def main_func(file_url):
       return result
       
     except:
-      return "Some error occured.. (maybe something related to the link)"
+      return """
+           <meta
+      property="og:image"
+      content="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+        <title>Emotion API ~ Darkmash</title>
+
+    <meta
+      name="description"
+      content="An API for detecting emotion.. || ERRRORRR!!"
+    />
+    <meta name="keywords" content="api , emotion ,darkmash , tools , startup , coders" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://cdn.discordapp.com/attachments/1023460179087470663/1062001193733337158/image.png"
+    />
+      Some error occured.. (maybe something related to the link)"""
   
 
 app.run(host="0.0.0.0", port=8080)
