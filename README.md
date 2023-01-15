@@ -22,7 +22,7 @@ API for dectecting Emotion.
  - We would require funding for runing it for-ever
                 and to keep on improving.
         
-- You can donate to our activities throw ~ 
+- You can donate to our activities through ~ 
         
         Patreon ~ https://www.patreon.com/axorax
         
