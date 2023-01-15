@@ -1,8 +1,9 @@
 """
-Emotion API
+Emotion API (https://emotionapi.darkmash.repl.co)
 
 By ~ Darkmash
 """
+
 
 from deepface import DeepFace
 from flask import Flask
@@ -26,7 +27,7 @@ def main_func_():
   return """
   ######## DARKMASH ~ EMOTION API ~ V.1.0.0 #########<br>
   To use the service ,<br>
-      /service/img_url_encoded_with_base64
+      /service/img_url_encoded_with_base64<br>
   ####################################################
   """
 
