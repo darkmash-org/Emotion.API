@@ -14,6 +14,10 @@ API for dectecting Emotion.
   ``` 
     https://emotionapi.darkmash.repl.co/service/<the_base64_of_the_url>
    ```
+## Using with python !! : )   
+   
+![image](https://user-images.githubusercontent.com/85914469/213844247-c829378e-a1b7-4214-922b-c0800de57dc6.png)
+
 
 ## Note
 
