@@ -12,7 +12,7 @@ API for dectecting Emotion.
 
 - How to use :
   ``` 
-    https://emotionapi.darkmash.repl.co/the_base64_of_the_url
+    https://emotionapi.darkmash.repl.co/service/<the_base64_of_the_url>
    ```
 
 ## Note
