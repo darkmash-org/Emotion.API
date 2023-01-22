@@ -2,7 +2,7 @@
 # Emotion API
 API for dectecting Emotion. 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org-emotion-api&label=Profile%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org-emotion-api&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
 
 ## Docs
@@ -18,6 +18,9 @@ API for dectecting Emotion.
    
 ![image](https://user-images.githubusercontent.com/85914469/213844247-c829378e-a1b7-4214-922b-c0800de57dc6.png)
 
+## Example !! 
+
+      https://www.youtube.com/watch?v=I1_cL6b03sY
 
 ## Note
 
