@@ -1,6 +1,6 @@
 
 # Emotion API
-API for dectecting Emotion. 
+API for detecting emotions. 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darkmash-org-emotion-api&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
@@ -10,7 +10,7 @@ API for dectecting Emotion.
  
 - Link : https://emotionapi.darkmash.repl.co/
 
-- API Link:
+- API Link with arguments:
 ``` 
 https://emotionapi.darkmash.repl.co/service/<the_base64_of_the_url>
 ```
