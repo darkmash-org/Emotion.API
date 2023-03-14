@@ -24,18 +24,27 @@ https://emotionapi.darkmash.repl.co/service/<the_base64_of_the_url>
 ***Note: This service is provided for free! You can optionally donate to help us improve it.***
 
 Donate to us!
-        
-        Patreon ~ https://www.patreon.com/axorax
-        
-        or Eth ~ 0x9CE5E2179A95Ba94f1B723FbfAd4710a9891c9e3
- 
-        or BNB ~ 0x9CE5E2179A95Ba94f1B723FbfAd4710a9891c9e3
+```    
+Patreon - https://www.patreon.com/axorax
 
-        or Monero ~ 41sDuZBpbgMBP8Dh7x6S1n7f5zphjjgd7baXC8FDkwH1cSUkHRU9WFUb7Ckr26rRQkgDGUDH1X4h7UGkG1xt6CmJ4kWtD9J
-        
-        or Duino Coin - darkmash
-        
-        
+Patreon - https://www.patreon.com/Cactochan
+
+Duino Coin - darkmash
+
+Duino Coin - axorax
+
+BCH (Bitcoincash) - qz2tsum0g74n3f6krfp8pnhcs5vkumqd6ud4d63eng
+
+BTC (Bitcoin) - 1EZMyGPPMRzJT3PLD2Xpqy32rreVryJ7ew
+
+Eth (Ethereum) - 0xB116f105E33D7Ec8aaFC998ff3BF4d0f1F7Ff8fC
+
+Eth ~ 0x9CE5E2179A95Ba94f1B723FbfAd4710a9891c9e3
+
+BNB ~ 0x9CE5E2179A95Ba94f1B723FbfAd4710a9891c9e3
+
+Monero ~ 41sDuZBpbgMBP8Dh7x6S1n7f5zphjjgd7baXC8FDkwH1cSUkHRU9WFUb7Ckr26rRQkgDGUDH1X4h7UGkG1xt6CmJ4kWtD9J
+``` 
 
 <hr>
 
